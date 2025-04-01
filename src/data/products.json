@@ -1,0 +1,68 @@
+{
+  "apple-iphone-15-fast-charging": [
+    {
+      "id": "1",
+      "name": "Apple 35W Dual USB-C Port Power Adapter",
+      "description": "Official Apple charger with dual ports for fast charging multiple devices",
+      "rating": 4.8,
+      "imageUrl": "https://images.unsplash.com/photo-1662947995689-ec5165848bac?auto=format&fit=crop&q=80&w=500",
+      "sellers": [
+        {
+          "name": "Amazon",
+          "url": "https://amazon.com",
+          "price": "$59.99"
+        },
+        {
+          "name": "Apple Store",
+          "url": "https://apple.com",
+          "price": "$59.99"
+        },
+        {
+          "name": "Best Buy",
+          "url": "https://bestbuy.com",
+          "price": "$59.99"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Anker 735 Charger (GaNPrime 65W)",
+      "description": "Compact GaN charger with three ports for fast charging multiple devices",
+      "rating": 4.7,
+      "imageUrl": "https://images.unsplash.com/photo-1659761023748-4aa3b9c5a834?auto=format&fit=crop&q=80&w=500",
+      "sellers": [
+        {
+          "name": "Amazon",
+          "url": "https://amazon.com",
+          "price": "$45.99"
+        },
+        {
+          "name": "Anker",
+          "url": "https://anker.com",
+          "price": "$49.99"
+        }
+      ]
+    }
+  ],
+  "apple-macbook-display": [
+    {
+      "id": "3",
+      "name": "Apple USB-C to HDMI Adapter",
+      "description": "Connect your MacBook to HDMI displays and TVs",
+      "rating": 4.5,
+      "imageUrl": "https://images.unsplash.com/photo-1662947995689-ec5165848bac?auto=format&fit=crop&q=80&w=500",
+      "sellers": [
+        {
+          "name": "Apple Store",
+          "url": "https://apple.com",
+          "price": "$69.99"
+        },
+        {
+          "name": "Best Buy",
+          "url": "https://bestbuy.com",
+          "price": "$69.99"
+        }
+      ]
+    }
+  ]
+}
